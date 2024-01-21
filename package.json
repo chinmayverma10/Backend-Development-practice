@@ -1,0 +1,19 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chinmayverma"
+  },
+  "author": "Chinmay Verma",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "random-words": "^2.0.0"
+  }
+}
